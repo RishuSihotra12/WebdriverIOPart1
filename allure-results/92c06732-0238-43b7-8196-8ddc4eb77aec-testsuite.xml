@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1602155586493' stop='1602155595774'>
+    <name>wait for delete button using waituntil</name>
+    <title>wait for delete button using waituntil</title>
+    <test-cases>
+        <test-case start='1602155586494' status='passed' stop='1602155595774'>
+            <name>new functinality</name>
+            <title>new functinality</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='Chrome-85.0.4183.121'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

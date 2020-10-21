@@ -1,0 +1,56 @@
+{
+  "uid" : "1c5818be99b2c282",
+  "name" : "new functinality",
+  "fullName" : "wait for delete button using waituntil.new functinality",
+  "historyId" : "40aa1839bf9a4c6dd688e8ead4912cc7",
+  "time" : {
+    "start" : 1602162177400,
+    "stop" : 1602162191636,
+    "duration" : 14236
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "wait for delete button using waituntil"
+  }, {
+    "name" : "testClass",
+    "value" : "wait for delete button using waituntil"
+  }, {
+    "name" : "testMethod",
+    "value" : "new functinality"
+  }, {
+    "name" : "package",
+    "value" : "wait for delete button using waituntil"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1c5818be99b2c282.json",
+  "parameterValues" : [ "Chrome-85.0.4183.121" ]
+}

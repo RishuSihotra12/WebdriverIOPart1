@@ -1,0 +1,46 @@
+{
+  "uid" : "969cfdd366e55779",
+  "name" : "dismiss alert",
+  "fullName" : "Handle alert pop up.dismiss alert",
+  "historyId" : "638fdc842ce4195a1c86eba8873a3f51",
+  "time" : {
+    "start" : 1602162637525,
+    "stop" : 1602162637525,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Handle alert pop up"
+  }, {
+    "name" : "testClass",
+    "value" : "Handle alert pop up"
+  }, {
+    "name" : "testMethod",
+    "value" : "dismiss alert"
+  }, {
+    "name" : "package",
+    "value" : "Handle alert pop up"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "969cfdd366e55779.json",
+  "parameterValues" : [ ]
+}

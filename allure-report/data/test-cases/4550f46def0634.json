@@ -1,0 +1,46 @@
+{
+  "uid" : "4550f46def0634",
+  "name" : "enter text on alert and accept ",
+  "fullName" : "Handle alert pop up.enter text on alert and accept ",
+  "historyId" : "9d3f8b26950f6a9dc0096670f00d4843",
+  "time" : {
+    "start" : 1602162637525,
+    "stop" : 1602162637525,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Handle alert pop up"
+  }, {
+    "name" : "testClass",
+    "value" : "Handle alert pop up"
+  }, {
+    "name" : "testMethod",
+    "value" : "enter text on alert and accept "
+  }, {
+    "name" : "package",
+    "value" : "Handle alert pop up"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4550f46def0634.json",
+  "parameterValues" : [ ]
+}

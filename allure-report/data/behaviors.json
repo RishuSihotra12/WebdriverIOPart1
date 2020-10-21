@@ -1,0 +1,135 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "accept alert",
+    "uid" : "8433d84f43a57954",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1602162935253,
+      "stop" : 1602162935253,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "enter text on alert and accept ",
+    "uid" : "9015c47fdee49567",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1602162935254,
+      "stop" : 1602162935254,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "alert accept message on rediffmail login page",
+    "uid" : "9965545079ef542f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1602162935254,
+      "stop" : 1602162949180,
+      "duration" : 13926
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "Chrome-85.0.4183.121" ]
+  }, {
+    "name" : "dismiss alert",
+    "uid" : "7c9879578dcff30f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1602162935254,
+      "stop" : 1602162935254,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Enter Username",
+    "uid" : "252fe5a7e20e6e5f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1602491369823,
+      "stop" : 1602491380655,
+      "duration" : 10832
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "Chrome-85.0.4183.121" ]
+  }, {
+    "name" : "Enter Password",
+    "uid" : "9bd5f86d04fa55f4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1602491380655,
+      "stop" : 1602491386197,
+      "duration" : 5542
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "Chrome-85.0.4183.121" ]
+  }, {
+    "name" : "click Login Button",
+    "uid" : "45ab5a4f8865d88d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1602491386197,
+      "stop" : 1602491387436,
+      "duration" : 1239
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "Chrome-85.0.4183.121" ]
+  }, {
+    "name" : "should clear Username",
+    "uid" : "f594605d10a0d7a6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1602491387436,
+      "stop" : 1602491388528,
+      "duration" : 1092
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "Chrome-85.0.4183.121" ]
+  }, {
+    "name" : "should clear password",
+    "uid" : "2261e29f47d985ff",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1602491388528,
+      "stop" : 1602491394232,
+      "duration" : 5704
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "Chrome-85.0.4183.121" ]
+  }, {
+    "name" : "new functinality",
+    "uid" : "67eba7fec820eb4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1602492038389,
+      "stop" : 1602492053762,
+      "duration" : 15373
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "Chrome-85.0.4183.121" ]
+  } ]
+}

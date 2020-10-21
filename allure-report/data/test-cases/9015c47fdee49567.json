@@ -1,0 +1,75 @@
+{
+  "uid" : "9015c47fdee49567",
+  "name" : "enter text on alert and accept ",
+  "fullName" : "Handle alert pop up.enter text on alert and accept ",
+  "historyId" : "9d3f8b26950f6a9dc0096670f00d4843",
+  "time" : {
+    "start" : 1602162935254,
+    "stop" : 1602162935254,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Handle alert pop up"
+  }, {
+    "name" : "testClass",
+    "value" : "Handle alert pop up"
+  }, {
+    "name" : "testMethod",
+    "value" : "enter text on alert and accept "
+  }, {
+    "name" : "package",
+    "value" : "Handle alert pop up"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4550f46def0634",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1602162637525,
+        "stop" : 1602162637525,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f28505b4da614f71",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1602162513010,
+        "stop" : 1602162513010,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "974471dc38e1748d",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1602162351678,
+        "stop" : 1602162351678,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9015c47fdee49567.json",
+  "parameterValues" : [ ]
+}

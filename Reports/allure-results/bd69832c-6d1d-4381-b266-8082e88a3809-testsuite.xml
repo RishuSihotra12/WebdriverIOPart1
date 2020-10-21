@@ -1,0 +1,159 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1602162637524' stop='1602162651382'>
+    <name>Handle alert pop up</name>
+    <title>Handle alert pop up</title>
+    <test-cases>
+        <test-case start='1602162637525' status='pending' stop='1602162637525'>
+            <name>accept alert</name>
+            <title>accept alert</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1602162637525' status='pending' stop='1602162637525'>
+            <name>dismiss alert</name>
+            <title>dismiss alert</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1602162637525' status='pending' stop='1602162637525'>
+            <name>enter text on alert and accept </name>
+            <title>enter text on alert and accept </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1602162637525' status='passed' stop='1602162651381'>
+            <name>alert accept message on rediffmail login page</name>
+            <title>alert accept message on rediffmail login page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='Chrome-85.0.4183.121'/>
+            </parameters>
+            <steps>
+                <step start='1602162637539' status='passed' stop='1602162640430'>
+                    <name>navigateTo</name>
+                    <title>navigateTo</title>
+                    <attachments>
+                        <attachment title='Request' source='4e68fca0-485d-481e-8f30-af55b2e7b321-attachment.json' type='application/json' size='56'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1602162640435' status='passed' stop='1602162640444'>
+                    <name>findElement</name>
+                    <title>findElement</title>
+                    <attachments>
+                        <attachment title='Request' source='969609fb-d27c-43ee-94e5-213e03a61da0-attachment.json' type='application/json' size='60'/>
+                        <attachment title='Response' source='9af4e9d0-d028-4a6e-ac4d-febc61a2b7d2-attachment.json' type='application/json' size='56'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1602162640458' status='passed' stop='1602162640468'>
+                    <name>executeScript</name>
+                    <title>executeScript</title>
+                    <attachments>
+                        <attachment title='Request' source='307c0e5b-7ea0-4016-8184-b0eb019bfa80-attachment.json' type='application/json' size='5252'/>
+                        <attachment title='Response' source='d637accd-7cfe-41b1-b150-89b97179d9ad-attachment.json' type='application/json' size='4'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1602162640470' status='passed' stop='1602162640475'>
+                    <name>findElement</name>
+                    <title>findElement</title>
+                    <attachments>
+                        <attachment title='Request' source='378144d1-5026-44ba-8766-269485731d18-attachment.json' type='application/json' size='60'/>
+                        <attachment title='Response' source='1d8eb87d-dd5c-4092-a14f-d71a313b79b8-attachment.json' type='application/json' size='56'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1602162640502' status='undefined'>
+                    <name>elementClick</name>
+                    <title>elementClick</title>
+                    <attachments>
+                        <attachment title='Request' source='ca0bd9e9-1f3d-492a-99fd-288ce41e2022-attachment.json' type='application/json' size='30'/>
+                    </attachments>
+                    <steps>
+                        <step start='1602162640506' status='passed' stop='1602162640512'>
+                            <name>findElement</name>
+                            <title>findElement</title>
+                            <attachments>
+                                <attachment title='Request' source='a7afc09e-3b62-4ba7-a038-d0130f5bca1b-attachment.json' type='application/json' size='60'/>
+                                <attachment title='Response' source='6d64ba5b-89de-4da5-b620-40251946c99e-attachment.json' type='application/json' size='56'/>
+                            </attachments>
+                            <steps/>
+                        </step>
+                        <step start='1602162640515' status='undefined'>
+                            <name>elementClick</name>
+                            <title>elementClick</title>
+                            <attachments>
+                                <attachment title='Request' source='44865b4c-20b6-4f2f-8be8-4919e71cd633-attachment.json' type='application/json' size='30'/>
+                            </attachments>
+                            <steps>
+                                <step start='1602162640517' status='passed' stop='1602162640521'>
+                                    <name>findElement</name>
+                                    <title>findElement</title>
+                                    <attachments>
+                                        <attachment title='Request' source='7b51faf4-915b-4d57-aade-e3239fedc3cf-attachment.json' type='application/json' size='60'/>
+                                        <attachment title='Response' source='84dd9435-2365-4438-a571-f631d0ad8d4d-attachment.json' type='application/json' size='56'/>
+                                    </attachments>
+                                    <steps/>
+                                </step>
+                                <step start='1602162640524' status='passed' stop='1602162640729'>
+                                    <name>elementClick</name>
+                                    <title>elementClick</title>
+                                    <attachments>
+                                        <attachment title='Request' source='fea47c63-7c41-432e-938d-dccdc1c7ada3-attachment.json' type='application/json' size='30'/>
+                                    </attachments>
+                                    <steps/>
+                                </step>
+                                <step start='1602162645730' status='passed' stop='1602162645731'>
+                                    <name>getAlertText</name>
+                                    <title>getAlertText</title>
+                                    <attachments>
+                                        <attachment title='Response' source='dacd7729-3a99-4979-ad6c-6644fea5d802-attachment.json' type='application/json' size='32'/>
+                                    </attachments>
+                                    <steps/>
+                                </step>
+                                <step start='1602162645732' status='passed' stop='1602162645734'>
+                                    <name>acceptAlert</name>
+                                    <title>acceptAlert</title>
+                                    <attachments/>
+                                    <steps/>
+                                </step>
+                                <step start='1602162650738' status='passed' stop='1602162651376'>
+                                    <name>takeScreenshot</name>
+                                    <title>takeScreenshot</title>
+                                    <attachments>
+                                        <attachment title='Screenshot' source='b3ca26c1-2ded-4c2c-81a3-b222c4d9d944-attachment.png' type='image/png' size='629083'/>
+                                    </attachments>
+                                    <steps/>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,56 @@
+{
+  "uid" : "33b97461239e6ce8",
+  "name" : "alert accept message on rediffmail login page",
+  "fullName" : "Handle alert pop up.alert accept message on rediffmail login page",
+  "historyId" : "3558bd68026e50199e037c3898a243e5",
+  "time" : {
+    "start" : 1602162351678,
+    "stop" : 1602162365599,
+    "duration" : 13921
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Handle alert pop up"
+  }, {
+    "name" : "testClass",
+    "value" : "Handle alert pop up"
+  }, {
+    "name" : "testMethod",
+    "value" : "alert accept message on rediffmail login page"
+  }, {
+    "name" : "package",
+    "value" : "Handle alert pop up"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33b97461239e6ce8.json",
+  "parameterValues" : [ "Chrome-85.0.4183.121" ]
+}

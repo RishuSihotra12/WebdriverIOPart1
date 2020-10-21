@@ -1,0 +1,101 @@
+[ {
+  "uid" : "7c9879578dcff30f",
+  "name" : "dismiss alert",
+  "time" : {
+    "start" : 1602162935254,
+    "stop" : 1602162935254,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9015c47fdee49567",
+  "name" : "enter text on alert and accept ",
+  "time" : {
+    "start" : 1602162935254,
+    "stop" : 1602162935254,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2261e29f47d985ff",
+  "name" : "should clear password",
+  "time" : {
+    "start" : 1602491388528,
+    "stop" : 1602491394232,
+    "duration" : 5704
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8433d84f43a57954",
+  "name" : "accept alert",
+  "time" : {
+    "start" : 1602162935253,
+    "stop" : 1602162935253,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "45ab5a4f8865d88d",
+  "name" : "click Login Button",
+  "time" : {
+    "start" : 1602491386197,
+    "stop" : 1602491387436,
+    "duration" : 1239
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "252fe5a7e20e6e5f",
+  "name" : "Enter Username",
+  "time" : {
+    "start" : 1602491369823,
+    "stop" : 1602491380655,
+    "duration" : 10832
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f594605d10a0d7a6",
+  "name" : "should clear Username",
+  "time" : {
+    "start" : 1602491387436,
+    "stop" : 1602491388528,
+    "duration" : 1092
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9bd5f86d04fa55f4",
+  "name" : "Enter Password",
+  "time" : {
+    "start" : 1602491380655,
+    "stop" : 1602491386197,
+    "duration" : 5542
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9965545079ef542f",
+  "name" : "alert accept message on rediffmail login page",
+  "time" : {
+    "start" : 1602162935254,
+    "stop" : 1602162949180,
+    "duration" : 13926
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67eba7fec820eb4",
+  "name" : "new functinality",
+  "time" : {
+    "start" : 1602492038389,
+    "stop" : 1602492053762,
+    "duration" : 15373
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

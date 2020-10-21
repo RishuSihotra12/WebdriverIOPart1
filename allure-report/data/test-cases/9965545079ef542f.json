@@ -1,0 +1,272 @@
+{
+  "uid" : "9965545079ef542f",
+  "name" : "alert accept message on rediffmail login page",
+  "fullName" : "Handle alert pop up.alert accept message on rediffmail login page",
+  "historyId" : "3558bd68026e50199e037c3898a243e5",
+  "time" : {
+    "start" : 1602162935254,
+    "stop" : 1602162949180,
+    "duration" : 13926
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "navigateTo",
+      "time" : {
+        "start" : 1602162935269,
+        "stop" : 1602162938275,
+        "duration" : 3006
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "dea2bda9385c5b4a",
+        "name" : "Request",
+        "source" : "dea2bda9385c5b4a.json",
+        "type" : "application/json",
+        "size" : 56
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "findElement",
+      "time" : {
+        "start" : 1602162938279,
+        "stop" : 1602162938285,
+        "duration" : 6
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e7d2f9a67ecd0d69",
+        "name" : "Request",
+        "source" : "e7d2f9a67ecd0d69.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "c0a4a4ebc6fa1d5b",
+        "name" : "Response",
+        "source" : "c0a4a4ebc6fa1d5b.json",
+        "type" : "application/json",
+        "size" : 56
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "executeScript",
+      "time" : {
+        "start" : 1602162938293,
+        "stop" : 1602162938302,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "16b3e6b2e4965300",
+        "name" : "Request",
+        "source" : "16b3e6b2e4965300.json",
+        "type" : "application/json",
+        "size" : 5252
+      }, {
+        "uid" : "9d0a32eccd88c0c9",
+        "name" : "Response",
+        "source" : "9d0a32eccd88c0c9.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "findElement",
+      "time" : {
+        "start" : 1602162938304,
+        "stop" : 1602162938308,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "af218f57862e141a",
+        "name" : "Request",
+        "source" : "af218f57862e141a.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "9e48f56d44d94f13",
+        "name" : "Response",
+        "source" : "9e48f56d44d94f13.json",
+        "type" : "application/json",
+        "size" : 56
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "elementClick",
+      "time" : {
+        "start" : 1602162938317,
+        "stop" : 1602162938486,
+        "duration" : 169
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a5e5fddc0a0611f2",
+        "name" : "Request",
+        "source" : "a5e5fddc0a0611f2.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "getAlertText",
+      "time" : {
+        "start" : 1602162943489,
+        "stop" : 1602162943490,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "765d5dbb64a33f15",
+        "name" : "Response",
+        "source" : "765d5dbb64a33f15.json",
+        "type" : "application/json",
+        "size" : 32
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "acceptAlert",
+      "time" : {
+        "start" : 1602162943491,
+        "stop" : 1602162943494,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "takeScreenshot",
+      "time" : {
+        "start" : 1602162948497,
+        "stop" : 1602162949174,
+        "duration" : 677
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f5381aad39c9a811",
+        "name" : "Screenshot",
+        "source" : "f5381aad39c9a811.png",
+        "type" : "image/png",
+        "size" : 794489
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 10
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Handle alert pop up"
+  }, {
+    "name" : "testClass",
+    "value" : "Handle alert pop up"
+  }, {
+    "name" : "testMethod",
+    "value" : "alert accept message on rediffmail login page"
+  }, {
+    "name" : "package",
+    "value" : "Handle alert pop up"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ad7f576769c7b7d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602162637525,
+        "stop" : 1602162651381,
+        "duration" : 13856
+      }
+    }, {
+      "uid" : "d1288ff8aba244e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602162513010,
+        "stop" : 1602162526884,
+        "duration" : 13874
+      }
+    }, {
+      "uid" : "33b97461239e6ce8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602162351678,
+        "stop" : 1602162365599,
+        "duration" : 13921
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9965545079ef542f.json",
+  "parameterValues" : [ "Chrome-85.0.4183.121" ]
+}

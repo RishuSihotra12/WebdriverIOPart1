@@ -1,0 +1,542 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "new functinality",
+      "uid" : "5e738e17f0c9c3e0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602250172077,
+        "stop" : 1602250186658,
+        "duration" : 14581
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "click Login Button",
+      "uid" : "cdc4f4f311413d8e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602481376925,
+        "stop" : 1602481377974,
+        "duration" : 1049
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should clear password",
+      "uid" : "2261e29f47d985ff",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602491388528,
+        "stop" : 1602491394232,
+        "duration" : 5704
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should clear Username",
+      "uid" : "22d8661ac8d0be4d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602248295761,
+        "stop" : 1602248296550,
+        "duration" : 789
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should clear Username",
+      "uid" : "a9486c24ce399ea7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602248149418,
+        "stop" : 1602248150206,
+        "duration" : 788
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "new functinality",
+      "uid" : "1c5818be99b2c282",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602162177400,
+        "stop" : 1602162191636,
+        "duration" : 14236
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "Enter Password",
+      "uid" : "a78507983515669f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602248142854,
+        "stop" : 1602248148301,
+        "duration" : 5447
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "Enter Password",
+      "uid" : "aaf44324be74a382",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602481371490,
+        "stop" : 1602481376925,
+        "duration" : 5435
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "new functinality",
+      "uid" : "67eba7fec820eb4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602492038389,
+        "stop" : 1602492053762,
+        "duration" : 15373
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "click Login Button",
+      "uid" : "45ab5a4f8865d88d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602491386197,
+        "stop" : 1602491387436,
+        "duration" : 1239
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "alert accept message on rediffmail login page",
+      "uid" : "33b97461239e6ce8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602162351678,
+        "stop" : 1602162365599,
+        "duration" : 13921
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should clear Username",
+      "uid" : "de5f96053fe17471",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602481377974,
+        "stop" : 1602481378629,
+        "duration" : 655
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "alert accept message on rediffmail login page",
+      "uid" : "9965545079ef542f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602162935254,
+        "stop" : 1602162949180,
+        "duration" : 13926
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "new functinality",
+      "uid" : "14a3023fe1d20ebd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602476190769,
+        "stop" : 1602476205487,
+        "duration" : 14718
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "Enter Username",
+      "uid" : "a52c838f45413ac5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602248274927,
+        "stop" : 1602248289096,
+        "duration" : 14169
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "Enter Password",
+      "uid" : "135669cc6e1d5360",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602248289098,
+        "stop" : 1602248294670,
+        "duration" : 5572
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should clear password",
+      "uid" : "fc250bae3fb5bd54",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602248296550,
+        "stop" : 1602248302162,
+        "duration" : 5612
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "Enter Username",
+      "uid" : "252fe5a7e20e6e5f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1602491369823,
+        "stop" : 1602491380655,
+        "duration" : 10832
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "new functinality",
+      "uid" : "22e247b683561c51",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602491167821,
+        "stop" : 1602491182055,
+        "duration" : 14234
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "Enter Password",
+      "uid" : "9bd5f86d04fa55f4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602491380655,
+        "stop" : 1602491386197,
+        "duration" : 5542
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "click Login Button",
+      "uid" : "6099a6a07f7a1934",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602248148301,
+        "stop" : 1602248149417,
+        "duration" : 1116
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "alert accept message on rediffmail login page",
+      "uid" : "d1288ff8aba244e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602162513010,
+        "stop" : 1602162526884,
+        "duration" : 13874
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should clear Username",
+      "uid" : "f594605d10a0d7a6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602491387436,
+        "stop" : 1602491388528,
+        "duration" : 1092
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should clear password",
+      "uid" : "71b4cf8806b11ec1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602248150207,
+        "stop" : 1602248155847,
+        "duration" : 5640
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "alert accept message on rediffmail login page",
+      "uid" : "ad7f576769c7b7d6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602162637525,
+        "stop" : 1602162651381,
+        "duration" : 13856
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should clear password",
+      "uid" : "d46312aeb9f88c30",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602481378630,
+        "stop" : 1602481384156,
+        "duration" : 5526
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "click Login Button",
+      "uid" : "bd8f8cd06c7d4392",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602248294670,
+        "stop" : 1602248295760,
+        "duration" : 1090
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "Enter Username",
+      "uid" : "215cfb961927d3cd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602248132411,
+        "stop" : 1602248142854,
+        "duration" : 10443
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    }, {
+      "name" : "Enter Username",
+      "uid" : "7acdaa2eb9ef184f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602481361078,
+        "stop" : 1602481371489,
+        "duration" : 10411
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-85.0.4183.121" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  }, {
+    "name" : "dismiss alert",
+    "uid" : "f98ebc2c76b613c4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1602162513010,
+      "stop" : 1602162513010,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "enter text on alert and accept ",
+    "uid" : "974471dc38e1748d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1602162351678,
+      "stop" : 1602162351678,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "accept alert",
+    "uid" : "b214b735b61260b0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1602162351677,
+      "stop" : 1602162351677,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "enter text on alert and accept ",
+    "uid" : "9015c47fdee49567",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1602162935254,
+      "stop" : 1602162935254,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "accept alert",
+    "uid" : "8433d84f43a57954",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1602162935253,
+      "stop" : 1602162935253,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "accept alert",
+    "uid" : "6f77d7e9dbc656c0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1602162637525,
+      "stop" : 1602162637525,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "enter text on alert and accept ",
+    "uid" : "4550f46def0634",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1602162637525,
+      "stop" : 1602162637525,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "dismiss alert",
+    "uid" : "19a18d6c13e56",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1602162351677,
+      "stop" : 1602162351677,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "dismiss alert",
+    "uid" : "969cfdd366e55779",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1602162637525,
+      "stop" : 1602162637525,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "accept alert",
+    "uid" : "1ed281ec6a54271d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1602162513009,
+      "stop" : 1602162513010,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "dismiss alert",
+    "uid" : "7c9879578dcff30f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1602162935254,
+      "stop" : 1602162935254,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "enter text on alert and accept ",
+    "uid" : "f28505b4da614f71",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1602162513010,
+      "stop" : 1602162513010,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}
