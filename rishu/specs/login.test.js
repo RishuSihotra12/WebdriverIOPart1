@@ -8,7 +8,7 @@ describe("Handle Application Login",function(){
         loginPage.enterUsername('tomsmith');
         console.log(loginPage.username.getValue())
       //  assert.equal("tomsmith",loginPage.username.getValue());
-      assert.equal("rishu",loginPage.username.getValue());
+      assert.equal("tomsmith",loginPage.username.getValue());
         browser.pause(5000)
     });
     it("Enter Password",function(){
